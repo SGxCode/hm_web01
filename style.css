@@ -1,0 +1,35 @@
+body {
+  height: 100%;
+  width: 100%;
+  background-color: teal;
+}
+.mini {
+  text-align: center;
+}
+.img01 {
+  text-align: center;
+}
+#bg {
+  width: 75vw;
+  height: 75vh;
+}
+.img02 {
+  text-align: center;
+}
+#bk {
+  width: 50vw;
+  height: auto;
+}
+h1 {
+  color: tomato;
+  text-align: center;
+}
+footer {
+  font-weight: bold;
+  font-size: 35px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: darkgoldenrod;
+}
